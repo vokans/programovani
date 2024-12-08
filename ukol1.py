@@ -33,5 +33,7 @@ print(cislo3)
 
 """
 Jak tenhle kód spustit?
-Klikni na F5, kdyby se to ještě na něco ptalo, tak dej vždycky jenom enter.
+Klikni na F5
+Jestli se objeví nahoře takový okýnko malý, 
+tak klikni na 'Python Debugger'.
 """
