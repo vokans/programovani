@@ -1,3 +1,4 @@
 git add .
 git commit -m "S auto-commit"
 git push
+$SHELL
