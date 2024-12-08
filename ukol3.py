@@ -4,7 +4,7 @@ V předchozím úkole se Ti možná nelíbilo,
 To se dá opravit takhle:
 """
 
-x = 8
+x = 6
 y = 5
 rozdil = x - y
 
@@ -21,7 +21,7 @@ Takže: print(f"něco")
 
 Možná se Ti taky nelíbí, že když se to vypíše, tak tam je napsáno 
 prostě "x - y" a ne jejich skutečné hodnoty "8 - 5".
-Teď už ale víš, jako to změnit! Zkusíš to?
+Teď už ale víš, jak to změnit! Zkusíš to?
 
 Rada - jak napsat složené závorky:
 - na české klávesnici:
@@ -30,7 +30,7 @@ Rada - jak napsat složené závorky:
     Drž shift a klikni tam, kde je 'ú' (kousek od enteru).
 """
 
-print(f"x - y = {rozdil}")
+print(f"{x} - y = rozdil")
 
 """
 Až si to vyzkoušíš, mám pro Tebe další super novinku!
@@ -52,7 +52,4 @@ To, co se pak napíše by mělo vypadat asi takhle:
 cislo1 = 77
 cislo2 = 17
 
-print(f"")
-print(f"")
-print(f"")
-print(f"")
+print(f"{cislo1} + {cislo2} = {cislo1 + cislo2}")

@@ -8,9 +8,9 @@ cislo1 = 5
 cislo2 = 2
 
 plus = cislo1 + cislo2
-minus = cislo1 + cislo2
-krat = cislo1 + cislo2
-deleno = cislo1 + cislo2
+minus = cislo1 - cislo2
+krat = cislo1 * cislo2
+deleno = cislo1 / cislo2
 
 print("cislo1 + cislo2 = ")
 print(plus)

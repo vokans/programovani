@@ -16,3 +16,8 @@ Výzva:
 
 Tak do toho!
 """
+
+t = 2 
+s = 100 
+
+print(f"{s} / {t} = {s / t}")
